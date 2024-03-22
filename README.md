@@ -1,6 +1,6 @@
 # MovingSquare
 
-This project features a VGA driver developed using VHDL, tasked with presenting an animated 50x50 pixel square on the display. The square is programmed to move continuously across the screen, reversing direction upon reaching any edge. In conjunction with its motion, the square undergoes color transitions to enhance visual tracking. Moreover, the driver is designed to modify the background color in response to the square's collisions with the screen edges, with each edge assigned a distinct color scheme. For instance, a collision with the right edge results in a purple backdrop. 
+This project features a VGA driver developed using VHDL implemented on the FPGA, tasked with presenting an animated 50x50 pixel square on the display. The square is programmed to move continuously across the screen, reversing direction upon reaching any edge. In conjunction with its motion, the square undergoes color transitions to enhance visual tracking. Moreover, the driver is designed to modify the background color in response to the square's collisions with the screen edges, with each edge assigned a distinct color scheme. For instance, a collision with the right edge results in a purple backdrop. 
 
 
 ## Modules
